@@ -38,9 +38,8 @@ mkdir new_project
 cd new_project
 python3 -m venv venv
 source venv/bin/activate
-mkdir src
-cd src
-git clone https://github.com/defenitionofreal/django-starter-template.git
+git clone https://github.com/defenitionofreal/automatica-test.git
+cd automatica-test
 pip install -r requirements.txt
 ```
 **Установка БД Postgres**
