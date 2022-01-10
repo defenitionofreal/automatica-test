@@ -12,7 +12,7 @@ __pycache__/
 db.sqlite3
 media
 ## Project
-local.py
+#local.py
 
 ### Linux ###
 *~
@@ -197,7 +197,7 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
-.env
+#.env
 
 # virtualenv
 .venv
